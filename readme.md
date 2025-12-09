@@ -9,12 +9,12 @@ This project was initially built using **BoltNew AI tool** and later enhanced, d
 ---
 
 ## 🚀 Live Demo
-[View Live Deployment](YOUR_DEPLOYED_LINK_HERE)
+https://tulabhagya2.github.io/ai-evaluation-repo/
 
 ---
 
 ## 🎥 Video Walkthrough
-[Watch 2–5 Minute Video](YOUR_VIDEO_LINK_HERE)
+https://drive.google.com/file/d/1k-ihOgf0c9xdvEifO6KGm7r51rGoo-Jg/view?usp=drivesdk
 
 **In the video, I demonstrate:**
 - User login and signup  
@@ -162,5 +162,6 @@ BoltNew: Used to generate initial UI and project structure
 ChatGPT: Used to debug, modify, and improve code, and create this README.md
 
 ✅ License
+
 
 This project is open-source under the MIT License.
